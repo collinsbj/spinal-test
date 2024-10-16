@@ -10,6 +10,8 @@ title
 
 header
 
+![Screenshot.png](static/img/Screenshot%202024-10-11%20at%209.17.35%E2%80%AFAM-39b126.png)
+
 <table>
 <tr>
 <td><p /></td>
@@ -17,6 +19,6 @@ header
 </tr>
 <tr>
 <td><p>row</p></td>
-<td><p>row2<img src="static/img/Screenshot%202024-10-11%20at%209.17.35%E2%80%AFAM.png" alt="-11 at 9.17.35 AM.png" /></p></td>
+<td><p /></td>
 </tr>
 </table>
