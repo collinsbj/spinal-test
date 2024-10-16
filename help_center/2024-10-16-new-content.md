@@ -1,5 +1,5 @@
 ---
-slug: ''
+slug: testing slug
 title: New test doc
 sidebar_position: '1'
 ---
