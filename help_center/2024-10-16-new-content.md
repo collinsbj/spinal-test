@@ -4,7 +4,7 @@ title: New test doc
 sidebar_position: '1'
 ---
 
-Hello to everybody and everything
+# Hello to everybody and everything
 
 title
 
