@@ -1,7 +1,7 @@
 ---
-slug: 
+slug: ''
 title: New test doc
-sidebar_position: 
+sidebar_position: '1'
 ---
 
 Hello to everybody and everything
